@@ -268,7 +268,7 @@ Protocol based on the Salis Lab Genetic Systems Builder pipeline:
 
 > Salis, H.A., Adamson, H., & Vakoun, A. *Oligopool-to-Plasmids Protocol v1.1.* Salis Lab, Penn State University. Available at: https://www.denovodna.com/build_genetic_systems
 
-Scripts developed independently for automation and portfolio purposes. Not affiliated with the Salis Lab or De Novo DNA.
+Scripts developed independently for automation and testing purposes usig Claude Code to draft script. Not affiliated with the Salis Lab or De Novo DNA.
 
 ---
 
@@ -280,5 +280,5 @@ MIT License — free to use, modify, and distribute with attribution.
 
 ## Author
 
-[Your Name]
-[Your institution / LinkedIn URL]
+Harry E. Adamson, Ph.D.
+https://www.linkedin.com/in/harry-e-adamson/
